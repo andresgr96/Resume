@@ -1,0 +1,10 @@
+.section {
+  width: 90%;
+  margin: 10px 5%;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.highlight {
+  font-weight: bold;
+  color: teal;
+}
